@@ -1,6 +1,8 @@
 '''
 1. Two Sum
 https://leetcode.com/problems/two-sum/
+
+@author: neo.huang3@gmail.com
 '''
 
 class Solution(object):
